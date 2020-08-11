@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/yaodehong/emily-blog/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Tweet sentiment extraction](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models)
+### [Tweet sentiment extraction(Roberta&CNN, WordPiece&character level encoding, two-stage-models)](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
