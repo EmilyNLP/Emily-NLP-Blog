@@ -6,7 +6,7 @@
 The first stage model relies on Roberta transformer and CNN to predict the start and end token index of sentiment in the wordpiece token sequence of tweet. The second stage model is based on character_level embeddings and CNN to futhur compute the start and end index of sentiment.The implementation of the second stage model significantly impoved the [jaccard score](https://en.wikipedia.org/wiki/Jaccard_index) from 7.13 to 7.26.
 
 ## [08/2019: Quora Insincere Question Identification](https://www.kaggle.com/emily2008/quora-insincere-questions)
-**key words: Sentiment analysis, LSTM, Attention kaggle competition**
+**key words: Sentiment analysis, LSTM, Attention, kaggle competition**
 
 Build and train LSTM model with Attention mechanism to identify Quora insincere questions. Programmed with python and keras. The score ranks in the top of 16% out of 4037 teams.
 
