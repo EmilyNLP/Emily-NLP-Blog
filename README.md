@@ -2,9 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/yaodehong/emily-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [Tweet sentiment extraction](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
