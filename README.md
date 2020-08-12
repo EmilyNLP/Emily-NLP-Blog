@@ -1,4 +1,4 @@
-# Happy to share ideas,projects and code in data science
+# Happy to share ideas, projects and code in data science
 
 ## [08/2020: Fine-tune GPT-2 to generate stories](https://www.kaggle.com/emily2008/fine-tune-gpt-2-to-generate-stories/notebook)
 **key words: GPT-2, Generative language modeling, story generate**
