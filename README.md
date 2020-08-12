@@ -1,6 +1,6 @@
-# Happy to share ideas in data science
+# Happy to share ideas,projects and code in data science
 
-## [08/2020: Fine-tune GPT-2 to generate stories](https://www.kaggle.com/emily2008/tweet-sentiment-extraction-2-stage-models)
+## [08/2020: Fine-tune GPT-2 to generate stories](https://www.kaggle.com/emily2008/fine-tune-gpt-2-to-generate-stories/notebook)
 **key words: GPT-2, Generative language modeling, story generate**
 
 Fine-tune GPT-2 with specific domain texts. The fine-tuned model decreases the perplexity for valid dataset from 39 to 24, which is a improvement. Howerver, from human evaluation, the generated stories from plain and fine-tuned models are almost at the same level. That means we still have a long way to explore in the field of generative language modeling. 
