@@ -1,5 +1,5 @@
 ## [08/2020: BioMedical Question Answering](https://github.com/yaodehong/BioMedical-Question-Answering)
-**key words: BioMedical Question Answering, General to domain-specific transfer learning, SQuAD to BioASQ, RoBERTa **
+**key words: BioMedical Question Answering, General to domain-specific transfer learning, SQuAD to BioASQ, RoBERTa**
 
 First, pretrain RoBERTa with BioMedical publication corpus. Next, Fine-tune the RoBERTa QA Model with SQuAD Dataset.Then, Fine-tune the RoBERTa QA Model with BioASQ dataset. The performance of the final model validated on the BioASQ test dataset reaches at 84 for F1 score and 72 for EM(exact match), which is a decent result. 
 
