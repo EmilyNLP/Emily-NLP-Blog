@@ -1,3 +1,9 @@
+## [08/2020: BioMedical Question Answering](https://github.com/yaodehong/BioMedical-Question-Answering)
+**key words: BioMedical Question Answering, General to domain-specific transfer learning, SQuAD to BioASQ, RoBERTa **
+
+First, pretrain RoBERTa with BioMedical publication corpus. Next, Fine-tune the RoBERTa QA Model with SQuAD Dataset.Then, Fine-tune the RoBERTa QA Model with BioASQ dataset. The performance of the final model validated on the BioASQ test dataset reaches at 84 for F1 score and 72 for EM(exact match), which is a decent result. 
+
+
 ## [08/2020: Fine-tune GPT-2 to generate stories](https://www.kaggle.com/emily2008/fine-tune-gpt-2-to-generate-stories/notebook)
 **key words: GPT-2, Generative language modeling, story generate**
 
