@@ -1,3 +1,11 @@
+## [09/2020: Book Recommender--in progress](https://github.com/yaodehong/Book-Recommender)
+**key words: Web Scraping, Populairty Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
+
+Part1.[Web Scraping and EDA](https://github.com/yaodehong/Book-Recommender/blob/master/1_Web%20Scraping_EDA.ipynb)
+Part2.[Weighted Rating__Naive Bayes__SVM](https://github.com/yaodehong/Book-Recommender/blob/master/2_Weighted%20Rating_Naive%20Bayes_SVM.ipynb)
+Part3.[Content Similarity Based Recommender](https://github.com/yaodehong/Book-Recommender/blob/master/3_Content%20Similarity%20Based%20Recommender.ipynb) 
+
+
 ## [08/2020: BioMedical Question Answering](https://github.com/yaodehong/BioMedical-Question-Answering)
 **key words: BioMedical Question Answering, General to domain-specific transfer learning, SQuAD to BioASQ, RoBERTa**
 
