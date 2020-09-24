@@ -1,5 +1,5 @@
 ## [09/2020: Book Recommender--in progress](https://github.com/yaodehong/Book-Recommender)
-**key words: Web Scraping, Populairty Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
+**key words: Web Scraping, Popularity Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
 
 Part1.[Web Scraping and EDA](https://github.com/yaodehong/Book-Recommender/blob/master/1_Web%20Scraping_EDA.ipynb) <br/>
 Part2.[Weighted Rating__Naive Bayes__SVM](https://github.com/yaodehong/Book-Recommender/blob/master/2_Weighted%20Rating_Naive%20Bayes_SVM.ipynb) <br/>
