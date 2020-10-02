@@ -3,7 +3,9 @@
 
 Part1.[Web Scraping and EDA](https://github.com/yaodehong/Book-Recommender/blob/master/1_Web%20Scraping_EDA.ipynb) <br/>
 Part2.[Weighted Rating__Naive Bayes__SVM](https://github.com/yaodehong/Book-Recommender/blob/master/2_Weighted%20Rating_Naive%20Bayes_SVM.ipynb) <br/>
-Part3.[Content Similarity Based Recommender](https://github.com/yaodehong/Book-Recommender/blob/master/3_Content%20Similarity%20Based%20Recommender.ipynb)  <br/>
+Part3.[Content Based Recommender](https://github.com/yaodehong/Book-Recommender/blob/master/3_Content%20Based%20Recommender.ipynb)  <br/>
+Part4.[Collaborative Filtering with neighborhood methods](https://github.com/yaodehong/Book-Recommender/blob/master/4_Collaborative%20Filtering%20with%20neighborhood%20methods.ipynb)  <br/>
+Part5.[Collaborative filtering with latent factor models](https://github.com/yaodehong/Book-Recommender/blob/master/5_Collaborative%20filtering%20with%20latent%20factor%20models.ipynb)  <br/>
 
 
 ## [08/2020: BioMedical Question Answering](https://github.com/yaodehong/BioMedical-Question-Answering)
