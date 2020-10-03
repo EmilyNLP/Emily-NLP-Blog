@@ -1,4 +1,4 @@
-## [09/2020: Book Recommender--in progress](https://github.com/yaodehong/Book-Recommender)
+## [09/2020: Book Recommender](https://github.com/yaodehong/Book-Recommender)
 **key words: Web Scraping, Popularity Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
 
 Part1.[Web Scraping and EDA](https://github.com/yaodehong/Book-Recommender/blob/master/1_Web%20Scraping_EDA.ipynb) <br/>
