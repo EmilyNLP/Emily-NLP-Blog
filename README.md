@@ -1,4 +1,4 @@
-# [Emily's NLP Blog]
+# Emily's NLP Blog
 ## [09/2020: Book Recommender](https://github.com/yaodehong/Book-Recommender)
 **Key words: Web Scraping, Popularity Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
 
