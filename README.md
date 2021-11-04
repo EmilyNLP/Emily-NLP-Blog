@@ -35,7 +35,7 @@ Build and train LSTM model with Attention mechanism to identify Quora insincere 
 
 Build a LightGBM model to predict how stocks will change based on the market state and news articles. The outcome performance ranks in the top  of 4% out of 2927 teams.
 
-## [Is this your favorite food?](https://www.kaggle.com/emily2008/is-this-your-favorite-food)
+## [Is this your favorite food?](https://github.com/EmilyNLP/Identify-Cuisine-Type-with-Recipe)
 **Key words: EDA, Multi-labels classifier, Feature Engineering**
 
 First, pre-process the cuisine receipe, then feed them to multiple models, choose the model with the best accuracy to predict the food types. 
