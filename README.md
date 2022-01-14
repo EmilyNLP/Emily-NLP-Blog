@@ -1,19 +1,19 @@
 # Emily's NLP Blog
 
 ## [Full Stack Deep Learning NLP: Building and Deploying a Reading Passages Readability Evaluator](https://github.com/EmilyNLP/Full-Stack-Deep-Learning-NLP-Building-and-Deploying-a-Reading-Passages-Readability-Evaluator)
-A project-oriented tutorial for full stack deep learning engineering. It covers EDA, dataset augmentation, deep learning model training with PyTorch, two-ends web services building with FastAPI and JavaScript, application deploying with Docker Container on Google Cloud.
+A project-oriented tutorial for full stack deep learning engineering. It covers EDA, dataset augmentation, deep learning model training with PyTorch, two-ends web services building with FastAPI and JavaScript, application deploying with Docker Container on Google Cloud. <br/>
 
-The following contents will be presented:
+The following contents will be presented: <br/>
 
-Part1: Objective
-Part2: Set up the development environment
-Part3: Exploratory data analysis
-Part4: Train a baseline deep learning model
-Part5: Download and prepare the external texts datasets
-Part6: Generate an augmented dataset by pseudo labeling the external datasets with baseline model
-Part7: Pretrain the model with augmented dataset and finetune the model with original dataset
-Part8: Build and deploy the backend web service
-Part9: Build and deploy the frontend service and connect it to the backend service
+Part1: Objective <br/>
+Part2: Set up the development environment <br/>
+Part3: Exploratory data analysis <br/>
+Part4: Train a baseline deep learning model <br/>
+Part5: Download and prepare the external texts datasets <br/>
+Part6: Generate an augmented dataset by pseudo labeling the external datasets with baseline model <br/>
+Part7: Pretrain the model with augmented dataset and finetune the model with original dataset <br/>
+Part8: Build and deploy the backend web service <br/>
+Part9: Build and deploy the frontend service and connect it to the backend service <br/>
 
 
 ## [Book Recommender](https://github.com/EmilyNLP/Book-Recommender)
