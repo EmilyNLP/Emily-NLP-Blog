@@ -1,7 +1,20 @@
 # Emily's NLP Blog
 
-## [Full Stack Deep Learning NLP Application Building and Cloud Delploying](https://github.com/EmilyNLP/Full-Stack-Deep-Learning-NLP-Application-Building-and-Cloud-Delploying)
+## [Full Stack Deep Learning NLP: Building and Deploying a Reading Passages Readability Evaluator](https://github.com/EmilyNLP/Full-Stack-Deep-Learning-NLP-Building-and-Deploying-a-Reading-Passages-Readability-Evaluator)
 A project-oriented tutorial for full stack deep learning engineering. It covers EDA, dataset augmentation, deep learning model training with PyTorch, two-ends web services building with FastAPI and JavaScript, application deploying with Docker Container on Google Cloud.
+
+The following contents will be presented:
+
+Part1: Objective
+Part2: Set up the development environment
+Part3: Exploratory data analysis
+Part4: Train a baseline deep learning model
+Part5: Download and prepare the external texts datasets
+Part6: Generate an augmented dataset by pseudo labeling the external datasets with baseline model
+Part7: Pretrain the model with augmented dataset and finetune the model with original dataset
+Part8: Build and deploy the backend web service
+Part9: Build and deploy the frontend service and connect it to the backend service
+
 
 ## [Book Recommender](https://github.com/EmilyNLP/Book-Recommender)
 **Key words: Web Scraping, Popularity Ranking, Naive Bayes, SVM, TF-iDF, Content_based, Collaborative filtering**
